@@ -1,1 +1,1 @@
-# auto_referee
+# TODO write a good README
